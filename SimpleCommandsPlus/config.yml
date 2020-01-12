@@ -1,0 +1,44 @@
+insufficient-permission: '&cYou do not have permission to do that!'
+error-message1: '&cYou are already in that gamemode!'
+error-message2: '&cThat player is already in that gamemode!'
+error-message3: '&cThat player is not online currently!'
+
+# simplecommands.gmc
+# simplecommands.gmc.give
+gmc:
+  success: '&aYou are now in gamemode creative!'
+  success2: '&aYou changed {player} gamemode to creative!'
+  
+# simplecommands.gms
+# simplecommands.gmc.give
+gms:
+  success: '&aYou are now in gamemode survival!'
+  success2: '&aYou changed {player} gamemode to survival!'
+
+# simplecommands.gma
+# simplecommands.gma.give
+gma:
+  success: '&aYou are now in gamemode adventure!'
+  success2: '&aYou changed {player} gamemode to adventure!'
+
+# simplecommands.gmsp
+# simplecommands.gmsp.give  
+gmsp:
+  success: '&aYou are now in spectator mode!'
+  success2: '&aYou changed {player} gamemode to spectator!'
+
+# simplecommands.day
+day:
+  success: '&aYou switched the current world time to day!'
+
+# simplecommands.night
+night:
+  success: '&aYou switched the current world time to night!'
+  
+# simplecommands.invis
+# simplecommands.invis.give
+invis:
+  success: '&aYou are no longer invisible'
+  success2: '&aYou are now invisible to other players (You can now see invisible people)'
+
+  

@@ -1,0 +1,24 @@
+main: com.lfn.simplecommandsplus.Main
+name: SimpleCommandsPlus
+version: 1.0.0
+author: BlueJ
+commands:
+  gmc:
+  gms:
+  gma:
+  gmsp:
+  day:
+  night:
+  invis:
+  
+permissions:
+  simplecommands.*:
+    children:
+      simplecommands.gmc: true
+      simplecommands.gmc.give: true
+      simplecommands.gms: true
+      simplecommands.gms.give: true
+      simplecommands.gma: true
+      simplecommands.gma.give: true
+      simplecommands.gmsp: true
+      simplecommands.gmsp.give: true
